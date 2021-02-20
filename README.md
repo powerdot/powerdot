@@ -24,7 +24,7 @@
 🔭 I’m currently working on:
 - [x] **FPC Stats** Analysis and prediction system for internal use of Russian Railways
 - [x] **Legkorem** ERP & CRM System internal use of company for apartment renovation
-- [x] **(IlyaDevman)[https://www.youtube.com/channel/UC__J7No7B1V5cBR5fVWqW8A]** youtube video blog 
+- [x] **IlyaDevman** youtube video blog 
 - [x] **Actid Hub** loyality system for small business like coffees: Apple Wallet Cards, iOS/Android Guest name detection, QR Analytics and etc.
 - [x] **La Pianca** drinking game: available online and in AppStore
 
