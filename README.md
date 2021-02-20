@@ -25,7 +25,7 @@
 - [x] **FPC Stats** Analysis and prediction system for internal use of Russian Railways
 - [x] **Legkorem** ERP & CRM System internal use of company for apartment renovation
 - [x] **IlyaDevman** youtube video blog 
-- [x] **Actid Hub** loyality system for small business like coffees: Apple Wallet Cards, iOS/Android Guest name detection, QR Analytics and etc.
+- [x] **Actid Hub** loyality system for small business like cafes: Apple Wallet Cards, iOS/Android Guest name detection, QR Analytics and etc.
 - [x] **La Pianca** drinking game: available online and in AppStore
 - [x] Trying help community to translate and develop open-source projects
 
