@@ -1,6 +1,3 @@
-![Hi](https://github-readme-stats.vercel.app/api?username=powerdot&show_icons=true&include_all_commits=true&count_private=true&hide=commits)
-![Hi](https://github-readme-stats.vercel.app/api/top-langs/?username=powerdot&layout=compact)
-
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +30,7 @@
 
 📫 How to reach me: ilya@ilyich.ru  
 
+![Hi](https://github-readme-stats.vercel.app/api/top-langs/?username=powerdot&layout=compact)
 
 <!--
 **powerdot/powerdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
