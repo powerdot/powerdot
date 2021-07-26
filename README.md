@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hi](https://github-readme-stats.vercel.app/api?username=powerdot&show_icons=true&include_all_commits=true&count_private=true&hide=commits)
+![Hi](https://github-readme-stats.vercel.app/api/top-langs/?username=powerdot&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
