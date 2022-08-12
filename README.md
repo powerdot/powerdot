@@ -20,8 +20,8 @@
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 
 🔭 I’m currently working on:
+- [x] **Oochit** Educational platform for exam preparation.
 - [x] **FPC Stats** Analysis and prediction system for internal use of Russian Railways
-- [x] **Legkorem** ERP & CRM System internal use of company for apartment renovation
 - [x] **IlyaDevman** youtube video blog 
 - [x] **Actid Hub** loyality system for small business like cafes: Apple Wallet Cards, iOS/Android Guest name detection, QR Analytics and etc.
 - [x] **La Pianca** drinking game: available online and in AppStore
