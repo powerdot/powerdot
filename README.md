@@ -20,12 +20,14 @@
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 
 🔭 I’m currently working on:
-- [x] **Oochit** Educational platform for exam preparation.
-- [x] **FPC Stats** Analysis and prediction system for internal use of Russian Railways
-- [x] **IlyaDevman** youtube video blog 
-- [x] **Actid Hub** loyality system for small business like cafes: Apple Wallet Cards, iOS/Android Guest name detection, QR Analytics and etc.
-- [x] **La Pianca** drinking game: available online and in AppStore
-- [x] Trying help community to translate and develop open-source projects
+- [x] **Oochit:** An educational platform for exam preparation.
+- [x] **Amaya Kids:** Developing billing, authentication, and other microservices for children's games.
+- [x] **Assistant:** A UI for GPT-4 and DALL-E 3, designed for myself and my friends.
+- [x] **YOLO:** An AI-based system for selecting cosmetics from a store's inventory.
+- [x] **IlyaDevman:** A YouTube video blog.
+- [x] **Actid Hub:** A loyalty system for small businesses like cafes, featuring Apple Wallet Cards, iOS/Android guest-name detection, QR analytics, etc.
+- [x] **La Pianca:** A drinking game available online and on the App Store.
+- [x] Trying to help the community by translating and developing open-source projects.
 
 
 📫 How to reach me: ilya@ilyich.ru  
