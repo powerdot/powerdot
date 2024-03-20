@@ -29,6 +29,7 @@
 - [x] **Amaya Kids:** Developing billing, authentication, and other microservices for children's games.
 - [x] **Assistant:** A UI for GPT-4 and DALL-E 3, designed for myself and my friends.
 - [x] **YOLO:** An AI-based system for selecting cosmetics from a store's inventory.
+- [x] **Baza cocktails:** Production of cocktail bases with a strong technical background.
 - [x] **IlyaDevman:** A YouTube video blog.
 - [x] **Actid Hub:** A loyalty system for small businesses like cafes, featuring Apple Wallet Cards, iOS/Android guest-name detection, QR analytics, etc.
 - [x] **La Pianca:** A drinking game available online and on the App Store.
