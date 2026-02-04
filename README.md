@@ -1,3 +1,44 @@
+## Hi, I’m Ilya 👋
+
+🔭 I’m currently looking for roles in Canada with relocation support. Checkout my [LinkedIn](https://linkedin.com/in/powerdot)
+
+I’ve been building software since school — **14+ years** so far.
+
+Over the years I’ve shipped many projects in different languages and stacks. Here are a few highlights:
+
+### 🚀 Selected projects
+
+- **AmayaKids (gamedev) — Billing & Identity platform**
+  - Built core services **from scratch**: billing, authentication/authorization, and other microservices
+  - Designed for high load and reliability, serving **millions of requests per day**
+
+- **Oochit — Education platform (built for my wife)**
+  - Exam preparation platform with **online payments**
+  - **Video calls**, **online whiteboard**, homework, and an automated system for checking tests/exams
+
+- **Baza Cocktails — e-commerce + AI (friends’ experimental business)**
+  - Built an online store from zero
+  - Added **AI-powered customer chat** deeply integrated into the system
+  - Built a **thermal receipt printing system** using a Raspberry Pi
+
+- **La Pianca — party game (web + iOS)**
+  - A fun game for friends: you get a task — do it, or take a drink 😄
+  - Available as a web app and an iOS app
+
+- **IlyaDevman — YouTube blog**
+  - A personal channel about programming (paused for now, but still part of my story)
+
+### 🤖 Lately
+Since ChatGPT appeared, I’ve been obsessed with building **agent workflows** that help me:
+- write content faster,
+- automate boring work,
+- and search/rank job opportunities.
+
+### 🌍 Open source
+I’m always exploring new technologies, open to meeting people in the community, and I truly love **open-source**.
+If you want to collaborate — feel free to reach out.
+
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,19 +65,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-🔭 I’m currently working on:
-- [x] **Oochit:** An educational platform for exam preparation.
-- [x] **Amaya Kids:** Developing billing, authentication, and other microservices for children's games.
-- [x] **Assistant:** A UI for GPT-4 and DALL-E 3, designed for myself and my friends.
-- [x] **YOLO:** An AI-based system for selecting cosmetics from a store's inventory.
-- [x] **Baza cocktails:** Production of cocktail bases with a strong technical background.
-- [x] **IlyaDevman:** A YouTube video blog.
-- [x] **Actid Hub:** A loyalty system for small businesses like cafes, featuring Apple Wallet Cards, iOS/Android guest-name detection, QR analytics, etc.
-- [x] **La Pianca:** A drinking game available online and on the App Store.
-- [x] Trying to help the community by translating and developing open-source projects.
-
-
-📫 How to reach me: ilya@ilyich.ru  
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -64,18 +92,3 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-<!--
-**powerdot/powerdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
