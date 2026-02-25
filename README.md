@@ -1,4 +1,4 @@
-## Hi, I’m Ilya 👋
+## Hi, I’m Ilia 👋
 
 🔭 I’m currently looking for roles in Canada with relocation support. Checkout my [LinkedIn](https://linkedin.com/in/powerdot)
 
