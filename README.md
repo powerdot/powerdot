@@ -2,7 +2,7 @@
 
 🔭 I’m currently looking for roles in Canada with relocation support. Checkout my [LinkedIn](https://linkedin.com/in/powerdot)
 
-📝 I write about engineering, AI agents, and real-world experiments on Medium:
+📝 I write about engineering, AI agents, and real-world experiments on Medium:  
 👉 https://medium.com/@power_dot
 
 I’ve been building software since school — **14+ years** so far.
