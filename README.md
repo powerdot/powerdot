@@ -1,6 +1,6 @@
 ## Hi, I’m Ilia 👋
 
-🔭 I’m currently looking for roles in Canada with relocation support. Checkout my [LinkedIn](https://linkedin.com/in/powerdot)
+🔭 I’m currently looking for roles in Spain with relocation support. Checkout my [LinkedIn](https://linkedin.com/in/powerdot)
 
 📝 I write about engineering, AI agents, and real-world experiments on Medium:  
 👉 https://medium.com/@power_dot
