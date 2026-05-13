@@ -1,45 +1,62 @@
 ## Hi, I’m Ilia 👋
 
-🔭 I’m currently looking for roles in Spain with relocation support. Checkout my [LinkedIn](https://linkedin.com/in/powerdot)
+I’m a full-stack engineer who has been building software since school - **14+ years** and still counting.
 
-📝 I write about engineering, AI agents, and real-world experiments on Medium:  
+🔭 I’m currently looking for engineering roles in Spain with relocation support.  
+Check out my [LinkedIn](https://linkedin.com/in/powerdot)
+
+📝 I write about engineering, AI agents, side projects, and real-world experiments on Medium:  
 👉 https://medium.com/@power_dot
 
-I’ve been building software since school — **14+ years** so far.
-
-Over the years I’ve shipped many projects in different languages and stacks. Here are a few highlights:
+Over the years, I’ve built and shipped products across different languages, platforms, and stacks - from high-load backend services to game tools, e-commerce, AI workflows, Raspberry Pi experiments, and mobile apps.
 
 ### 🚀 Selected projects
 
-- **AmayaKids (gamedev) — Billing & Identity platform**
-  - Built core services **from scratch**: billing, authentication/authorization, and other microservices
-  - Designed for high load and reliability, serving **millions of requests per day**
+- **AmayaKids - Billing & Identity platform**
+  - Built core backend services from scratch: billing, authentication, authorization, and supporting microservices
+  - Designed systems for high load and reliability, serving **millions of requests per day**
+  - Worked on production-grade infrastructure for a large-scale gamedev business
 
-- **Oochit — Education platform (built for my wife)**
-  - Exam preparation platform with **online payments**
-  - **Video calls**, **online whiteboard**, homework, and an automated system for checking tests/exams
+- **CareerBoard - AI-powered job search board**
+  - A personal tool for organizing, tracking, and ranking job opportunities
+  - Helps compare roles, manage applications, and make the job search less chaotic
+  - Built with AI-assisted workflows for evaluating opportunities and finding better matches  
+  👉 https://careerboard.leverton.dev/
 
-- **Baza Cocktails — e-commerce + AI (friends’ experimental business)**
-  - Built an online store from zero
-  - Added **AI-powered customer chat** deeply integrated into the system
-  - Built a **thermal receipt printing system** using a Raspberry Pi
+- **Oochit - Education platform**
+  - Built an exam preparation platform for my wife
+  - Added online payments, video calls, an online whiteboard, homework flows, and automated test checking
+  - A real product built around real users and real educational needs
 
-- **La Pianca — party game (web + iOS)**
-  - A fun game for friends: you get a task — do it, or take a drink 😄
+- **Baza Cocktails - e-commerce + AI**
+  - Built an online store from scratch for a friends’ experimental business
+  - Added an AI-powered customer chat deeply integrated into the system
+  - Built a thermal receipt printing system using a Raspberry Pi
+
+- **La Pianca - Party game**
+  - A fun game for friends: you get a task - do it, or take a drink 😄
   - Available as a web app and an iOS app
 
-- **IlyaDevman — YouTube blog**
-  - A personal channel about programming (paused for now, but still part of my story)
+- **IlyaDevman - YouTube blog**
+  - A personal programming channel
+  - Paused for now, but still an important part of my engineering story
 
 ### 🤖 Lately
-Since ChatGPT appeared, I’ve been obsessed with building **agent workflows** that help me:
+
+Since ChatGPT appeared, I’ve been deeply interested in building **AI agent workflows** that help me:
+
 - write content faster,
 - automate boring work,
-- and search/rank job opportunities.
+- research and rank job opportunities,
+- and turn vague ideas into working prototypes.
 
-### 🌍 Open source
-I’m always exploring new technologies, open to meeting people in the community, and I truly love **open-source**.
-If you want to collaborate — feel free to reach out.
+### 🌍 Open source and community
+
+I’m always exploring new technologies, building side projects, and experimenting with ideas that look fun or useful.
+
+I love **open source**, enjoy meeting people from the engineering community, and I’m always open to collaboration.
+
+Feel free to reach out 👋
 
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
